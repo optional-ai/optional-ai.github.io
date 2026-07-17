@@ -57,3 +57,19 @@ In addition to require lots of energy, these data centres as also causing proble
 For a satirical take on the environmental harms of AI see: [Save the AI](https://savethe.ai/about/)
 
 ## Integrity
+According to the [UK Research Integrity Office](https://ukrio.org/research-integrity/what-is-research-integrity/)(UKRIO) there are five dimensions of research integrity, these are:
+
+- Honesty
+- Transparency
+- Accountability
+- Respect, and
+- Rigour
+
+These align with [The Singapore Statement](https://www.wcrif.org/guidance/singapore-statement) agreed at the 2010 World Conference on Research Integrity (WCRI) sets out four principles:
+
+- Honesty in all aspects of research
+- Accountability in the conduct of research
+- Professional courtesy and fairness in working with others
+- Good stewardship of research on behalf of others
+
+In 2025 UKRIO published it's guidance on [Embracing AI with Integrity](https://ukrio.org/ukrio-resources/embracing-ai-with-integrity/),this is a practical guide for researchers on when and how the use of AI may be suitable in a research context.
