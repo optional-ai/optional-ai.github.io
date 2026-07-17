@@ -2,11 +2,11 @@
 
 ## Coding
 
-- [vscode]({% link vscode.md %})
+- [vscode](vscode.md)
 
 
 ## Office
 
-- [outlook](./outlook.md)
+- [outlook](outlook.md)
 
 
