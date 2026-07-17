@@ -6,6 +6,11 @@ In some instances this may mean choosing not to use these tools, in others it ma
 
 Outlined below are reasons and scenarios why you may want to make an informed choice about if and how you use these tools.
 
+## personal choice
+Tools are increasingly embedding and auto enabling AI features. These put the onus on the user to disable features they do not wish and to manage the data being collected. There may be many reasons on why you wish to make these choices.
+
+This may include a concern about unauthentic communication, or moral concerns about how some of these tools came to be and their operational practices. 
+
 ## interaction data 
 Depending on which tools and platforms you are accessing and how, systems will be collecting different information about how you are interacting with them.
 
@@ -26,9 +31,14 @@ It is therefore important for us to know what the tools and platforms we are usi
 
 Is this case you want to use organisationally provided tools and platforms, provided they appropriate protections in place, or locally hosted tools without web access and data sharing.
 
-## skill atrophy
+## copyright and international collaboration
+Currently under UK copyright law, Computer Generated Works have copyright protections. Section I of the UK Government Report on Copyright and Artificial Intelligence outlines differences between UK law and other jurisdictions. The EU report Generative AI and Copyright states: "purely AI-generated outputs—those created automatically by an AI system without substantial human intervention—are not eligible for copyright protection in the EU. Such outputs are considered to fall into the public domain, making them freely available for anyone to use, reproduce, or adapt without seeking permission or providing attribution. " (https://www.europarl.europa.eu/RegData/etudes/STUD/2025/774095/IUST_STU(2025)774095_EN.pdf)
+
+If you are working on international collaborations you may want to consider if the outputs you are creating require copyright protection, if so, can you demonstrate sufficient human agency?
 
 ## teaching and learning
+
+## skill atrophy
 
 ## environmental concerns
 
