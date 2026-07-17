@@ -2,7 +2,7 @@
 
 ## Coding
 
-- [vscode]({% link ./vscode.md %})
+- [vscode]({% link vscode.md %})
 
 
 ## Office
