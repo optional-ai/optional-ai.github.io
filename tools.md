@@ -8,5 +8,6 @@
 ## Office
 
 - [outlook](outlook.md)
+- [teams](teams.md)
 
 
