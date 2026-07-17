@@ -48,5 +48,12 @@ Use it or lose it is a well coined phrase. This is true of most skills. It is im
 See: [AI Safety and Automation Bias - The Downside of Human-in-the-Loop](https://cset.georgetown.edu/publication/ai-safety-and-automation-bias/)
 
 ## Environmental Concerns
+Large scale compute resources are required to both train the developing Generative AI tools and to enable the platforms in which they are deployed. This has lead to a boom in large scale data centre development, having a a knock on impact on hardware availability and increased procurement costs.
+
+The xAI data centres in Memphis, known as Colossus, have been the focus of an environmental lawsuit. In April 2025 these were powered by 35 gas turbines generating upto 421 megawatts annually. These turbunes were also found to be emiting between 1,200 and 2,000 tons of smog-forming nitrogen oxides (NOx) per year.
+
+In addition to require lots of energy, these data centres as also causing problems with water supplies. Some of the largest data centres require upto 5m gallons of water per day, equivalent to the water use of up to 50,000 people. In [early 2026 The Guardian](https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water) reported that 517, of 819 new planned data centres in the USA are to be located in areas of drought within the last year. 
+
+For a satirical take on the environmental harms of AI see: [Save the AI](https://savethe.ai/about/)
 
 ## Integrity
