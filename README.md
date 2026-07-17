@@ -4,6 +4,9 @@ Generative AI tools are increasingly automatically embedded and enabled in produ
 
 This may not always be appropriate, or desirable, for the task being undertaken. Times when this may be the case will be outlined. These may include ethical considerations - we strongly value both the right to fully opt out of a problematic technology and the right to choose a model which an individual or team believes is less harmful. This may also include practical considerations - data governance, teaching objectives, and the benefit of practicing doing things without support to maintain skills.
 
+- Go to [tools](tools.md) to see how to find the options you have for AI in different tools
+- Learn more [about why we need a choice](need_choice.md)
+
 Our project doesn’t attempt (yet) to provide help on how to make these choices. (But see for example [I Love Generative AI and Hate the Companies Building It](https://cwodtke.medium.com/i-love-generative-ai-and-hate-the-companies-building-it-3fb120e512ac) which ranks AI suppliers by their degree of social and environmental harm.)
 
 Instead, this project focuses on the how - where to click or configure to allow your choices to be honoured.

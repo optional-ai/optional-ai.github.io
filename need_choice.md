@@ -32,7 +32,9 @@ It is therefore important for us to know what the tools and platforms we are usi
 Is this case you want to use organisationally provided tools and platforms, provided they appropriate protections in place, or locally hosted tools without web access and data sharing.
 
 ## Copyright and International Collaboration
-Currently under UK copyright law, Computer Generated Works have copyright protections. Section I of the UK Government Report on Copyright and Artificial Intelligence outlines differences between UK law and other jurisdictions. The EU report Generative AI and Copyright states: "purely AI-generated outputs—those created automatically by an AI system without substantial human intervention—are not eligible for copyright protection in the EU. Such outputs are considered to fall into the public domain, making them freely available for anyone to use, reproduce, or adapt without seeking permission or providing attribution. " (https://www.europarl.europa.eu/RegData/etudes/STUD/2025/774095/IUST_STU(2025)774095_EN.pdf)
+Currently under UK copyright law, Computer Generated Works have copyright protections. Section I of the UK Government Report on Copyright and Artificial Intelligence outlines differences between UK law and other jurisdictions. The EU report Generative AI and Copyright states: "purely AI-generated outputs—those created automatically by an AI system without substantial human intervention—are not eligible for copyright protection in the EU. Such outputs are considered to fall into the public domain, making them freely available for anyone to use, reproduce, or adapt without seeking permission or providing attribution. " -- [Generative AI
+and Copyright
+Training, Creation, Regulation](https://www.europarl.europa.eu/RegData/etudes/STUD/2025/774095/IUST_STU(2025)774095_EN.pdf)
 
 If you are working on international collaborations you may want to consider if the outputs you are creating require copyright protection, if so, can you demonstrate sufficient human agency?
 
@@ -72,4 +74,4 @@ These align with [The Singapore Statement](https://www.wcrif.org/guidance/singap
 - Professional courtesy and fairness in working with others
 - Good stewardship of research on behalf of others
 
-In 2025 UKRIO published it's guidance on [Embracing AI with Integrity](https://ukrio.org/ukrio-resources/embracing-ai-with-integrity/),this is a practical guide for researchers on when and how the use of AI may be suitable in a research context.
+In 2025 UKRIO published its guidance on [Embracing AI with Integrity](https://ukrio.org/ukrio-resources/embracing-ai-with-integrity/), this is a practical guide for researchers on when and how the use of AI may be suitable in a research context.
