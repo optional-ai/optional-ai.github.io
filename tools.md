@@ -10,4 +10,6 @@
 - [outlook](outlook.md)
 - [teams](teams.md)
 
+## Platforms
 
+- [windows](windows.md)
