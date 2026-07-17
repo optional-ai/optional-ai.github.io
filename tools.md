@@ -9,10 +9,9 @@
 ## Office
 
 - [outlook](outlook.md)
+- [teams](teams.md)
 
 ## Conversations
-
-- [MS teams](msteams.md)
 - [Slack](slack.md)
 
 ## Search engines
@@ -27,4 +26,10 @@ For Google, the [udm14](https://udm14.com) site helps to google AI-overview-free
 
 [Just the browser](https://justthebrowser.com/) list browser configurations to remove AI features.
 
+## Platforms
 
+- [windows](windows.md)
+
+## Web
+
+- [GitHub](github.md)
