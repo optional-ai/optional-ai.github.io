@@ -1,5 +1,7 @@
 # optional-ai.github.io
 
+![](assets/images/optionalai.svg)
+
 Generative AI tools are increasingly automatically embedded and enabled in productivity tools and platforms. Information on how to disable these tools or have a choice on which tools are embedded is often difficult to find or even unavailable.
 
 This may not always be appropriate, or desirable, for the task being undertaken. Times when this may be the case will be outlined. These may include ethical considerations - we strongly value both the right to fully opt out of a problematic technology and the right to choose a model which an individual or team believes is less harmful. This may also include practical considerations - data governance, teaching objectives, and the benefit of practicing doing things without support to maintain skills.
